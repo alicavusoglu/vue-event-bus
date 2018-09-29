@@ -1,4 +1,9 @@
-# vue-event-bus
+## A simple vue-event-bus example
+
+Turkish version of this repository's article available on a medium post:
+
+
+Thanks for your attention!
 
 ## Project setup
 ```
